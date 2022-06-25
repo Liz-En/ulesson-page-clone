@@ -1,0 +1,295 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#container #logo{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.side-bar{
+    float: right;
+    margin-right: 50px;
+    margin-top: -30px;
+}
+
+.side-bar a{
+    margin-right: 30px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+#a1{
+    border: solid 1px;
+    padding: 15px;
+    border-radius: 0.5rem;
+    color: black;
+}
+
+#a2{
+    color: black;
+    background-color: rgb(224, 145, 53);
+    padding: 15px;
+    border: solid 1px;
+    border-radius: 0.5rem;
+    border-color: rgb(224, 145, 53);
+}
+
+span{
+    color: rgb(224, 145, 53);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    
+   display: flex;
+   background-color: rgb(51, 0, 99);
+   padding: 100px;
+   position: relative;
+   top: 30px;
+}
+
+.container .item h1{
+    color: white;
+}
+
+.container .item p{
+    color: white;
+    text-align: start;
+}
+
+.container .item h3{
+    color: rgb(224, 145, 53);
+}
+
+.container .item #join-class{
+    border: solid 0.1rem;
+    background-color: rgb(224, 145, 53);
+    color: black;
+    border-color: rgb(224, 145, 53);
+    border-radius: 0.5rem;
+    padding: 15px;
+    margin-top: 50px;
+}
+/* #mid img{
+    float: right;
+    margin-top: -400px;
+} */
+
+#mid button{
+    background-color: rgb(224, 145, 53);
+    color: black;
+    padding: 10px;
+    border-radius: 0.5rem;
+    border: solid 1px;
+    border-color: rgb(224, 145, 53);
+}
+
+#mid-bottom{
+    float: right;
+    margin-top: -300px;
+}
+
+#testimonials{
+    margin-top: 200px;
+    text-align: center;
+}
+
+#testimonials h1{
+    color: rgb(98, 73, 135);
+} 
+
+video{
+    height: 20rem;
+    width: 35rem;
+    border-radius: 2rem;
+}
+
+#testimonials button{
+    background-color: rgb(98, 73, 135);
+    color: white;
+    padding: 10px;
+    border-radius: 0.5rem;
+    border: solid 1px;
+    border-color: rgb(98, 73, 135);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+}
+
+#coding{
+margin-top: 200px;
+background-color: yellow;
+}
+
+#left-bar{
+    float: left;
+    margin-left: 100px;
+    background-color: yellow;
+    padding: 101px;
+    padding-bottom: 420px;
+    padding-right: 13.25rem;
+    margin-left: -10px;
+}
+
+#left-bar button{
+    padding: 10px;
+    background-color: rgb(98, 73, 135);
+    color: white;
+    font-weight: 400;
+    border-color: rgb(98, 73, 135);
+    border: solid 0.1rem;
+    border-radius: 0.5rem;
+}
+
+#right-bar{
+    float: right;
+    background-color: yellow;
+    padding: 100px;
+    padding-bottom: 127px;
+}
+
+
+
+#s1{
+    margin-left: 0px;
+    margin-right: 00px;
+    float: right;
+    margin-bottom: 100px;
+}
+
+#s2{
+    float: right;
+    margin-right: 90px;
+    margin-bottom: 0px;
+}
+
+#s3{
+    margin-right: -360px;
+    float: right;
+    margin-top: 350px;
+}
+
+#s4{
+    margin-top: 350px;
+    margin-right: -720px;
+    float: right;
+    margin-left: 0px;
+}
+
+#coding{
+    background-color: yellow;
+}
+
+
+.why{
+    display: flex;
+    justify-content: center;
+    margin-top: ;
+    justify-content: space-evenly;
+}
+
+.why #d1 h2,p{
+     text-align: center;
+}
+
+.why #d2 h2,p{
+    text-align: center;
+}
+
+.why #d3 h2,p{
+    text-align: center;
+}
+
+
+#whycode img{
+    height: 250px;
+}
+
+#whycode {
+    margin-top: 100px;
+    
+}
+
+
+#whycode h1{
+    position: relative;
+    right: 130px;
+    color: rgb(51, 0, 99);
+}
+
+.become #tutor{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    background-color: rgb(231, 220, 247);
+    padding: 75px;
+}
+
+#becomeone{
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+#becomeone button{
+    padding: 15px;
+    color: black;
+    background-color: rgb(224, 145, 53);
+    border: solid 0.1rem;
+    border-color: rgb(224, 145, 53);
+    border-radius: 0.5rem;
+}
+
+#join{
+    text-align: center;
+    background-color: rgb(51, 0, 99);
+    padding: 90px;
+}
+
+#join h1{
+   color: white;
+   font-size: 50px;
+   font-weight: 900;
+}
+
+#join button{
+    padding: 15px;
+    color: black;
+    background-color: rgb(224, 145, 53);
+    border: solid 0.1rem;
+    border-color: rgb(224, 145, 53);
+    border-radius: 0.5rem;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    margin-top: 50px;
+}
+
+.footer section div a{
+    text-decoration: none;
+    color: slategrey;
+}
+
+.footer #section{
+    margin-top: -1rem;
+}
+
+.footer #section1{
+    margin-top: -1rem;
+}
+
+hr{
+    width: 80%;
+    margin-top: 50px;
+}
+
+#copyright{
+    text-align: center;
+}
+
+#section1 div img{
+  margin-right: 10px;
+}
